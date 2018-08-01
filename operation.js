@@ -2,34 +2,78 @@ var MongoClient = require('mongodb');
 
 var url = 'mongodb://localhost:27017/';
 
-function findInf(database, table){
-    Mongoclient.connect(url,{ useNewUrlParser: true }, function(err, db){
+
+function findInf(resp, database, table){
+    MongoClient.connect(url,{ useNewUrlParser: true }, function(err, db){
         if(err) {
-            res.send('Error connecting to database');
+            resp.send('error');
             throw err;
         }
         dbObject = db.db(database);
         dbObject.collection(table).find({}).toArray(function(err, res){
+            if(err){
+                resp.send('not found');
+                throw err;
+            }
+            resp.send(res);
             db.close();
-            return res;
         });
     });
 }
 
-function insertData(database, table, data){
-    Mongoclient.connect(url,{ useNewUrlParser: true }, function(err, db){
+function insertData(responce, database, table, data){
+    //responce.setHeader('Content-Type', 'text/html');
+    MongoClient.connect(url,{ useNewUrlParser: true }, function(err, db){
         if(err) {
-            res.send('Error connecting to database');
+            console.log('hi');
+            response.send('Error connecting to database.');
             throw err;
         }
         dbObject = db.db(database);
         dbObject.collection(table).insertOne(data, function(err){
             if(err) {
-                res.send('Error inserting to data');
-                throw err;
+                console.log('hello');
+                response.send('Error inserting data.');
             }
-            res.send('inserted');
             db.close();
+            responce.send('Inserted');
         });
     });
 }
+
+function updateData(responce, database, table, query, data){
+   // responce.setHeader('Content-Type', 'text/html');
+    MongoClient.connect(url,{ useNewUrlParser: true }, function(err, db){
+        if(err) {
+            response.send('Error connecting to database.');
+        }
+        dbObject = db.db(database);
+        dbObject.collection(table).updateOne(query, data, function(err){
+            if(err) {
+                response.send('Error updating data.');
+            }
+            db.close();
+            responce.send('Updated');
+        });
+    });
+}
+
+    function deleteData(responce, database, table, query){
+        //responce.setHeader('Content-Type', 'text/html');
+        MongoClient.connect(url,{ useNewUrlParser: true }, function(err, db){
+            if(err) {
+                response.send('Error connecting to database.');
+            }
+            dbObject = db.db(database);
+            dbObject.collection(table).deletetOne(query, function(err){
+                if(err) {
+                    responce.send('Error deleting data.');
+            }
+
+            db.close();
+            res.send('Deleted');
+        });
+    });
+}       
+
+module.exports = {findInf, insertData, updateData, deleteData};

@@ -5,6 +5,7 @@ var path = require('path');
 var myParser = require('body-parser');
 var app = express();
 var Mongoclient = require('mongodb');
+var operation = require('./operation');
 
 url = 'mongodb://localhost:27017/';
 
@@ -12,7 +13,8 @@ app.use(myParser.urlencoded({extended: true}));
 
 app.get('/residences/halls', function(req, res){
     if(req.query.id == 0){
-        var data = findInf(res, 'residences', 'halls');
+       var data = operation.findInf(res,'residences', 'halls');
+        console.log('data');
     }
 
     else if(req.query.id == 1)
@@ -25,20 +27,27 @@ app.get('/residences/halls', function(req, res){
 app.post('/residences/halls', function(req, res){
     var data =req.body;
     console.log(data);
-    insertData(res, 'residences', 'halls', data);
+    operation.insertData(res,'residences', 'halls', data);
 });
 
-app.listen(7777);
+app.listen(3334);
 
 function findInf(resp, database, table){
-    Mongoclient.connect(url,{ useNewUrlParser: true }, function(err, db){
+    Mongoclient.connect(url, { useNewUrlParser: true }, function(err, db){
         if(err) {
             resp.send('error');
+            throw err;
         }
         dbObject = db.db(database);
         dbObject.collection(table).find({}).toArray(function(err, res){
-            resp.send(JSON.stringify(res));
+            if(err){
+                resp.send('not found');
+                throw err;
+            }
+            resp.send('found');
+            console.log(res);
             db.close();
+
         });
     });
 }
