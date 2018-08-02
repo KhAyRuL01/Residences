@@ -11,26 +11,30 @@ url = 'mongodb://localhost:27017/';
 
 app.use(myParser.urlencoded({extended: true}));
 
-app.get('/residences/halls', function(req, res){
-    if(req.query.id == 0){
-       var data = operation.findInf(res,'residences', 'halls');
-        console.log('data');
-    }
+app.get('/', function(req, res){
+    // if(req.query.id == 0){
+    //    var data = operation.findInf(res,'residences', 'halls');
+    //     console.log('data');
+    // }
 
-    else if(req.query.id == 1)
-        res.sendFile('index.html',{root:__dirname});
-    else
-        res.send('undefined query');
+    // else if(req.query.id == 1)
+    res.sendFile('index.html',{root:__dirname});
+    // else
+    //     res.send('undefined query');
 
 });
 
+
+app.get('/residences/halls', function(req, res){
+    operation.findInf(res, 'residences', 'halls');
+});
 app.post('/residences/halls', function(req, res){
     var data =req.body;
     console.log(data);
     operation.insertData(res,'residences', 'halls', data);
 });
 
-app.listen(3334);
+app.listen(3333);
 
 function findInf(resp, database, table){
     Mongoclient.connect(url, { useNewUrlParser: true }, function(err, db){
