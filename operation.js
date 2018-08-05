@@ -30,7 +30,7 @@ function insertData(responce, database, table, data){
             throw err;
         }
         dbObject = db.db(database);
-        dbObject.collection(table).insertOne(data, function(err){
+        dbObject.collection(table).insertMany(data, function(err){
             if(err) {
                 console.log('hello');
                 response.send('Error inserting data.');
@@ -48,9 +48,13 @@ function updateData(responce, database, table, query, data){
             response.send('Error connecting to database.');
         }
         dbObject = db.db(database);
-        dbObject.collection(table).updateOne(query, data, function(err){
+        data = {
+            _id:'123',
+            name:'labib'
+        };
+        dbObject.collection(table).updateMany(query, data, function(err){
             if(err) {
-                response.send('Error updating data.');
+                responce.send('Error updating data.');
             }
             db.close();
             responce.send('Updated');
@@ -62,16 +66,18 @@ function updateData(responce, database, table, query, data){
         //responce.setHeader('Content-Type', 'text/html');
         MongoClient.connect(url,{ useNewUrlParser: true }, function(err, db){
             if(err) {
-                response.send('Error connecting to database.');
+                responce.send('Error connecting to database.');
             }
             dbObject = db.db(database);
-            dbObject.collection(table).deletetOne(query, function(err){
+            dbObject.collection(table).deleteMany(query, function(err){
+
                 if(err) {
-                    responce.send('Error deleting data.');
-            }
+                 
+                   responce.send('Error deleting data.');
+                }
 
             db.close();
-            res.send('Deleted');
+            responce.send('Deleted');
         });
     });
 }       
