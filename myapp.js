@@ -6,70 +6,43 @@ var myParser = require('body-parser');
 var app = express();
 var Mongoclient = require('mongodb');
 var operation = require('./operation');
+var mongoose = require('mongoose');
 
 url = 'mongodb://localhost:27017/';
 
-app.use(myParser.urlencoded({extended: true}));
+//mongoose.connect('localhost:3333/residences');
+
+app.use(myParser.urlencoded({extended: false}));
+app.use(myParser.json());
 
 app.get('/', function(req, res){
-    // if(req.query.id == 0){
-    //    var data = operation.findInf(res,'residences', 'halls');
-    //     console.log('data');
-    // }
-
-    // else if(req.query.id == 1)
-    res.sendFile('index.html',{root:__dirname});
-    // else
-    //     res.send('undefined query');
-
+    
+    res.send('Welcome');
 });
 
 
 app.get('/residences/halls', function(req, res){
+
     operation.findInf(res, 'residences', 'halls');
 });
-app.post('/residences/halls', function(req, res){
+
+app.put('/residences/halls', function(req, res){
+
+    console.log(req.body);
+    operation.updateData(res, 'residences', 'halls', req.body);
+});
+
+app.post('/residences/halls/', function(req, res){
     var data =req.body;
     console.log(data);
     operation.insertData(res,'residences', 'halls', data);
 });
 
-app.listen(3333);
+app.delete('/residences/halls', function(req, res){
 
-function findInf(resp, database, table){
-    Mongoclient.connect(url, { useNewUrlParser: true }, function(err, db){
-        if(err) {
-            resp.send('error');
-            throw err;
-        }
-        dbObject = db.db(database);
-        dbObject.collection(table).find({}).toArray(function(err, res){
-            if(err){
-                resp.send('not found');
-                throw err;
-            }
-            resp.send('found');
-            console.log(res);
-            db.close();
+    var data = req.body;
+    operation.deleteData(res, 'residences', 'halls', data);
+    console.log(req.body);
+});
 
-        });
-    });
-}
-
-function insertData(resp, database, table, data){
-    Mongoclient.connect(url,{ useNewUrlParser: true }, function(err, db){
-        if(err) {
-            resp.send('Error connecting to database');
-            throw err;
-        }
-        dbObject = db.db(database);
-        dbObject.collection(table).insertOne(data, function(err){
-            if(err) {
-                resp.send('Error inserting to data');
-                throw err;
-            }
-            resp.send('inserted');
-            db.close();
-        });
-    });
-}
+app.listen(4444);
