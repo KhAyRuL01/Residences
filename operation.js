@@ -26,14 +26,14 @@ function insertData(responce, database, table, data){
     MongoClient.connect(url,{ useNewUrlParser: true }, function(err, db){
         if(err) {
             console.log('hi');
-            response.send('Error connecting to database.');
+            responce.send('Error connecting to database.');
             throw err;
         }
         dbObject = db.db(database);
-        dbObject.collection(table).insertMany(data, function(err){
+        dbObject.collection(table).insertOne(data, function(err){
             if(err) {
                 console.log('hello');
-                response.send('Error inserting data.');
+                responce.send('Error inserting data.');
             }
             db.close();
             responce.send('Inserted');
