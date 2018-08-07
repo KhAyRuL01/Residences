@@ -1,0 +1,209 @@
+Name of Hall: Mannujan Hall
+
+Establishment Year: 11th April, 1967
+
+Hall Code: 120
+
+Name of the Provost: Tanzima Zohra Habib
+
+Provost Tel no: 711204
+
+Number of House Tutor: 5
+
+Number of Rooms: 315
+
+Number of seat: 1500
+
+Residential Students: 1350
+
+Non-Residential Students: 150
+
+Number of Dormitory: 3
+
+Number of Seat in Dormitory: 450
+
+Seat Rent:Seat rent for room - 115
+          Rent for dormitory - 65
+
+Requirements for having seat: Recent Mark sheet
+
+Quality for Having Seat: According to merit
+
+Number of Library: 1
+
+Number of Reading Room: 2
+
+Internet Facilities: 2(room) and router
+
+Conference Room: 1
+
+Guest Room: 1
+
+TV Room: 2
+
+Entertainment: Sports, Indoor games, Cultural Events, Annual Functions, Debating, Discussion Ceremony
+
+Kitchen: 1
+
+Prayer Room: 1
+
+Newspaper: 1(room) and 7(types)
+
+Gymnesium: One for all ladies hall
+
+Hall Dining: Lunch Meal -24 tk
+             Dinner Meal -18 tk
+
+Hall Canteen: Breakfast, Snacks 
+
+Gate Opens At: 6 AM
+
+Gate Close At: 7 PM
+
+Office Opens At: 9 AM
+
+Office Close At: 4.30 PM
+
+Security: Secured(security guards are available)
+
+
+
+
+Hall Name: Rokeya Hall 
+
+Establishment Year: 26 Nov 1977
+
+Hall Code: 121
+
+Name of the Provost: Dr. Rubaiyat Yasmin
+
+Provost Tel no: 711201 
+
+Number of House Tutor: 3
+
+Number of Rooms: 235
+
+Number of seat: 720
+
+Residential Students: 720
+
+Non-Residential Students: 350
+
+Number of Dormitory: 4
+
+Number of Seat in Dormitory: 450
+
+Seat Rent: Seat rent for room - 115
+          Rent for dormitory - 65
+
+Requirements for having seat: Recent Mark sheet
+
+Quality for Having Seat: According to merit
+
+Number of Library: 1
+
+Number of Reading Room: 1
+
+Internet Facilities: Router
+
+Conference Room: No
+
+Guest Room: 1
+
+TV Room: 1
+
+Entertainment: Sports, Indoor games, Cultural Events, Annual Functions, Debating, Discussion Ceremony
+
+Kitchen: 1
+
+Prayer Room: 1
+
+Newspaper: 1(room) and 5(types)
+
+Gymnesium: One for all ladies hall
+
+Hall Dining: Lunch Meal - 24 tk
+             Dinner Meal - 18 tk
+
+Hall Canteen: Breakfast, Snacks 
+
+Gate Opens At: 6 AM
+
+Gate Close At: 7 PM
+
+Office Opens At: 10 AM
+
+Office Close At: 4.30 PM
+
+Security: Secured(security guards are available)
+
+
+
+Hall Name: Tapashi Rabeya Hall
+
+Establishment Year: 25th April
+
+Hall Code: 122
+
+Name of the Provost:  Sabina Sultana
+
+Provost Tel no: 711201
+
+Number of House Tutor: 3
+
+Number of Rooms: 114
+
+Number of seat: 735
+
+Residential Students: 735
+
+Non-Residential Students: 469
+
+Number of Dormitory: 1
+
+Number of Seat in Dormitory: 140
+
+Seat Rent:Seat rent for room - 115
+          Rent for dormitory -6 5
+
+Requirements for having seat: Recent Mark sheet
+
+Quality for Having Seat: According to merit
+
+Number of Library: 1
+
+Number of Reading Room:2
+
+Internet Facilities:Router
+
+Conference Room:No
+
+Guest Room:1
+
+TV Room:1
+
+Entertainment: Sports,Indoor games,Cultural Events,Annual Functions, Debating,Discussion Ceremony.
+
+Kitchen: 1
+
+Prayer Room:1
+
+Newspaper:1(room) and 6(types)
+
+Gymnesium: One for all ladies hall
+
+Hall Dining: Lunch Meal -24 tk
+             Dinner Meal -18 tk
+
+Hall Canteen: Breakfast ,Snacks 
+
+Gate Opens At: 6 AM.
+
+Gate Close At: 7 PM
+
+Office Opens At:10 AM
+
+Office Close At:4.30 PM
+
+Security: Secured( security guards are available)
+
