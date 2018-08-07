@@ -1,2 +1,0 @@
-# Residences
-Software development lab
