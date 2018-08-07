@@ -1,0 +1,149 @@
+[
+	{   "_id" : "120",
+
+	 "Name" : "Mannujan Hall",
+
+	 "Establishment" : "11th April, 1967",
+
+	 "Provost" : "Tanzima Zohra Habib",
+
+	 "Tel_no" : "711204",
+
+	 "Number_of_House_Tutor" : "5",
+
+	 "Number_of_Rooms" : "315",
+
+	 "Number_of_seat" : "1500",
+
+	 "Residential_Students" : "1350",
+
+	 "Number of Dormitory" : "3",
+
+	 "Number_of_Seat_in_Dormitory" : "450",
+
+	 "Seat Rent" : { "Seat rent for room" : "115",
+		 "Rent for dormitory" : "65" 
+	  },
+	 "Number_of_Library" : "1", 
+
+	"Number_of_Reading_Room" : "2",
+
+	 "Entertainment" : "Sports, Indoor games, Cultural Events, Annual Functions, Debating, Discussion Ceremony", "Kitchen" : "1", "Prayer_Room" : "1",
+
+	 "Hall_Dining" : { "Lunch_Meal" : "24 tk", "Dinner_Meal" : "18 tk" },
+
+	 "Gate_Opens_At" : "6 AM",
+
+	 "Gate_Close At" : "7 PM",
+
+	 "Office Opens At" : "9 AM",
+
+	 "Office_Close_At" : "4.30 PM" 
+	}
+
+    {
+        "_id":"121",
+        
+        "Name": "Rokeya Hall",
+        
+        "Establishment": "26 Nov 1977",
+
+        "Provost": "Dr. Rubaiyat Yasmin",
+
+        "Tel_no": "711201",
+
+        "Number_of_House_Tutor": "3",
+
+        "Number_of_Rooms": "235",
+
+        "Number_of_seat": "720",
+
+        "Residential_Students": "720",
+
+        "Number_of_Dormitory": "4",
+
+        "Number_of_Seat_in_Dormitory": "450",
+
+        "Seat Rent":{
+            "Seat rent for room": "115",
+            "Rent for dormitory": "65"
+        },
+
+        "Number_of_Library": "1",
+
+        "Number_of_Reading_Room": "2",
+
+
+        "Entertainment": "Sports, Indoor games, Cultural Events, Annual Functions, Debating, Discussion Ceremony",
+
+        "Kitchen": "1",
+
+        "Prayer_Room": "1",
+
+        "Hall_Dining": {
+            "Lunch_Meal":"24 tk",
+            "Dinner_Meal": "18 tk"
+        },
+
+        "Gate_Opens_At": "6 AM",
+
+        "Gate_Close At": "7 PM",
+
+        "Office Opens At": "9 AM",
+
+        "Office_Close_At": "4.30 PM"
+    },
+
+    {
+        "_id":"122",
+        
+        "Name": "Tapashi Rabeya Hall",
+        
+        "Establishment": "25th April",
+
+        "Provost": "Sabina Sultana",
+
+        "Tel_no": "711201",
+
+        "Number_of_House_Tutor": "3",
+
+        "Number_of_Rooms": "114",
+
+        "Number_of_seat": "735",
+
+        "Residential_Students": "735",
+
+        "Number_of_Dormitory": "1",
+
+        "Number_of_Seat_in_Dormitory": "140",
+
+        "Seat Rent":{
+            "Seat rent for room": "115",
+            "Rent for dormitory": "65"
+        },
+
+        "Number_of_Library": "1",
+
+        "Number_of_Reading_Room": "2",
+
+
+        "Entertainment": "Sports, Indoor games, Cultural Events, Annual Functions, Debating, Discussion Ceremony",
+
+        "Kitchen": "1",
+
+        "Prayer_Room": "1",
+
+        "Hall_Dining": {
+            "Lunch_Meal":"24 tk",
+            "Dinner_Meal": "18 tk"
+        },
+
+        "Gate_Opens_At": "6 AM",
+
+        "Gate_Close At": "7 PM",
+
+        "Office Opens At": "9 AM",
+
+        "Office_Close_At": "4.30 PM"
+    }
+]
