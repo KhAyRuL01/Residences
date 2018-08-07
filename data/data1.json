@@ -1,0 +1,156 @@
+ {
+        "_id":"110",
+        
+        "Name": "Shaheed Ziaur Rahman Hall",
+
+        "Provost": "Dr.Rejaul Karim Bakshi",
+
+        "Tel_no": "711199",
+
+        "Number_of_House_Tutor": "3",
+
+        "Number_of_Rooms": "300",
+
+        "Number_of_seat": "600",
+
+        "Residential_Students": "600",
+
+        "Seat Rent":{
+            "Seat rent for room": "115",
+            "Rent for dormitory": "65"
+        },
+
+        "Number_of_Reading_Room": "1",
+
+
+        "Entertainment": "Sports, Indoor games, Cultural Events, Annual Functions, Debating, Discussion Ceremony",
+
+        "Mosque": "1",
+
+        "Hall_Dining": {
+            "Lunch_Meal":"24 tk",
+            "Dinner_Meal": "18 tk"
+        },
+
+        "Office Opens At": "9 AM",
+
+        "Office_Close_At": "4.30 PM"
+    },
+
+    {
+        "_id":"102",
+        
+        "Name": "Shah Mukhdum Hall",
+
+        "Provost": "Dr.M.Jahangir Alam",
+
+        "Tel_no": "711193",
+
+        "Number_of_House_Tutor": "2",
+
+        "Number_of_Rooms": "180",
+
+        "Number_of_seat": "320",
+
+        "Residential_Students": "320",
+
+        "Seat Rent":{
+            "Seat rent for room": "115",
+            "Rent for dormitory": "65"
+        },
+
+        "Number_of_Reading_Room": "1",
+
+
+        "Entertainment": "Sports, Indoor games, Cultural Events, Annual Functions, Debating, Discussion Ceremony",
+
+        "Mosque": "1",
+
+        "Hall_Dining": {
+            "Lunch_Meal":"24 tk",
+            "Dinner_Meal": "18 tk"
+        },
+
+        "Office Opens At": "9 AM",
+
+        "Office_Close_At": "4.30 PM"
+    },
+    {
+        "_id":"102",
+        
+        "Name": "Shah Mukhdum Hall",
+
+        "Provost": "Dr.M.Jahangir Alam",
+
+        "Tel_no": "711193",
+
+        "Number_of_House_Tutor": "2",
+
+        "Number_of_Rooms": "180",
+
+        "Number_of_seat": "320",
+
+        "Residential_Students": "320",
+
+        "Seat Rent":{
+            "Seat rent for room": "115",
+            "Rent for dormitory": "65"
+        },
+
+        "Number_of_Reading_Room": "1",
+
+
+        "Entertainment": "Sports, Indoor games, Cultural Events, Annual Functions, Debating, Discussion Ceremony",
+
+        "Mosque": "1",
+
+        "Hall_Dining": {
+            "Lunch_Meal":"24 tk",
+            "Dinner_Meal": "18 tk"
+        },
+
+        "Office Opens At": "9 AM",
+
+        "Office_Close_At": "4.30 PM"
+    },
+
+    {
+        "_id":"106",
+        
+        "Name": "Shaheed Habibur Rahman Hall",
+
+        "Provost": "Dr.Abdur Rahman",
+
+        "Tel_no": "711200",
+
+        "Number_of_House_Tutor": "2",
+
+        "Number_of_Rooms": "310",
+
+        "Number_of_seat": "540",
+
+        "Residential_Students": "540",
+
+        "Seat Rent":{
+            "Seat rent for room": "115",
+            "Rent for dormitory": "65"
+        },
+
+        "Number_of_Reading_Room": "1",
+
+
+        "Entertainment": "Sports, Indoor games, Cultural Events, Annual Functions, Debating, Discussion Ceremony",
+
+        "Mosque": "1",
+
+        "Hall_Dining": {
+            "Lunch_Meal":"24 tk",
+            "Dinner_Meal": "18 tk"
+        },
+
+        "Office Opens At": "9 AM",
+
+        "Office_Close_At": "4.30 PM"
+    }
+
+ ]
