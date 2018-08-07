@@ -66,13 +66,10 @@ response:
    Example: 
    get localhost:3333/residences/halls?_id=106
    response:
-           [
-               {
+             {
                     "_id": "106",
                     "name": "Shaheed Habibur Rahman Hall"
-                }
-           ]
-
+            }
 
 post localhost:3333/residences/halls
 Request body:
