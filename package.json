@@ -1,22 +1,24 @@
 {
   "name": "residences",
   "version": "1.0.0",
-  "description": "",
+  "description": "Software development lab",
   "main": "app.js",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
-    "mongodb": "^3.1.1"
+    "mongodb": "^3.1.1",
+    "nodemon": "^1.18.3"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KhAyRuL01/Residences.git"
   },
-  "author": "",
+  "author": "khayrul",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/KhAyRuL01/Residences/issues"
