@@ -1,0 +1,197 @@
+ [   {
+        "_id":"103",
+        
+        "Name": "Nawab Abdul Latif Hall",
+        
+        "Establishment": "24th November,2011",
+
+        "Provost": "Dr.Bipul Kumar Biswas",
+
+        "Tel_no": "711",
+
+        "Number_of_House_Tutor": "3",
+
+        "Number_of_Rooms": "125",
+
+        "Number_of_seat": "250",
+
+        "Residential_Students": "250",
+
+        "Seat Rent":{
+            "Seat rent for room": "115",
+            "Rent for dormitory": "65"
+        },
+
+        "Number_of_Reading_Room": "1",
+
+
+        "Entertainment": "Sports, Indoor games, Cultural Events, Annual Functions, Debating, Discussion Ceremony",
+
+        "Mosque": "1",
+
+        "Hall_Dining": {
+            "Lunch_Meal":"24 tk",
+            "Dinner_Meal": "18 tk"
+        },
+
+        "Office Opens At": "9 AM",
+
+        "Office_Close_At": "4.30 PM"
+    },
+
+    {
+        "_id":"104",
+        
+        "Name": "Syed Amer Ali Hall",
+
+        "Provost": "Dr.M.Aminul Islam",
+
+        "Tel_no": "711194",
+
+        "Number_of_House_Tutor": "2",
+
+        "Number_of_Rooms": "170",
+
+        "Number_of_seat": "300",
+
+        "Residential_Students": "300",
+
+        "Seat Rent":{
+            "Seat rent for room": "115",
+            "Rent for dormitory": "65"
+        },
+
+        "Number_of_Reading_Room": "1",
+
+
+        "Entertainment": "Sports, Indoor games, Cultural Events, Annual Functions, Debating, Discussion Ceremony",
+
+        "Mosque": "1",
+
+        "Hall_Dining": {
+            "Lunch_Meal":"24 tk",
+            "Dinner_Meal": "18 tk"
+        },
+
+        "Office Opens At": "9 AM",
+
+        "Office_Close_At": "4.30 PM"
+    },
+
+    {
+        "_id":"105",
+        
+        "Name": "Shaheed Shamsuzzoha Hall",
+
+        "Provost": "Dr.M.Golam Siddique",
+
+        "Tel_no": "711196",
+
+        "Number_of_House_Tutor": "3",
+
+        "Number_of_Rooms": "370",
+
+        "Number_of_seat": "530",
+
+        "Residential_Students": "530",
+
+        "Seat Rent":{
+            "Seat rent for room": "115",
+            "Rent for dormitory": "65"
+        },
+
+        "Number_of_Reading_Room": "1",
+
+
+        "Entertainment": "Sports, Indoor games, Cultural Events, Annual Functions, Debating, Discussion Ceremony",
+
+        "Mosque": "1",
+
+        "Hall_Dining": {
+            "Lunch_Meal":"24 tk",
+            "Dinner_Meal": "18 tk"
+        },
+
+        "Office Opens At": "9 AM",
+
+        "Office_Close_At": "4.30 PM"
+    },
+
+    {
+        "_id":"108",
+        
+        "Name": "Madar Bux Hall",
+
+        "Provost": "Dr.M.Golam Siddique",
+
+        "Tel_no": "711198",
+
+        "Number_of_House_Tutor": "3",
+
+        "Number_of_Rooms": "450",
+
+        "Number_of_seat": "680",
+
+        "Residential_Students": "680",
+
+        "Seat Rent":{
+            "Seat rent for room": "115",
+            "Rent for dormitory": "65"
+        },
+
+        "Number_of_Reading_Room": "1",
+
+
+        "Entertainment": "Sports, Indoor games, Cultural Events, Annual Functions, Debating, Discussion Ceremony",
+
+        "Mosque": "1",
+
+        "Hall_Dining": {
+            "Lunch_Meal":"24 tk",
+            "Dinner_Meal": "18 tk"
+        },
+
+        "Office Opens At": "9 AM",
+
+        "Office_Close_At": "4.30 PM"
+    },
+
+    {
+        "_id":"109",
+        
+        "Name": "Shaheed Suhrawardy Hall",
+
+        "Provost": "Dr.Md.Anisur Rahman",
+
+        "Tel_no": "711197",
+
+        "Number_of_House_Tutor": "3",
+
+        "Number_of_Rooms": "420",
+
+        "Number_of_seat": "680",
+
+        "Residential_Students": "680",
+
+        "Seat Rent":{
+            "Seat rent for room": "115",
+            "Rent for dormitory": "65"
+        },
+
+        "Number_of_Reading_Room": "1",
+
+
+        "Entertainment": "Sports, Indoor games, Cultural Events, Annual Functions, Debating, Discussion Ceremony",
+
+        "Mosque": "1",
+
+        "Hall_Dining": {
+            "Lunch_Meal":"24 tk",
+            "Dinner_Meal": "18 tk"
+        },
+
+        "Office Opens At": "9 AM",
+
+        "Office_Close_At": "4.30 PM"
+    }
+]
