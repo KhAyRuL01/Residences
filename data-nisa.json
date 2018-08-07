@@ -1,0 +1,106 @@
+{
+        "_id":"124",
+        
+        "Name": "Rahamatunnesa Hall",
+        
+        "Establishment": "29th June,2007",
+
+        "Provost": "Dr. Mele Jesmin",
+
+        "Tel_no": "711205",
+
+        "Number_of_House_Tutor": "3",
+
+        "Number_of_Rooms": "111",
+
+        "Number_of_seat": "450",
+
+        "Residential_Students": "450",
+
+        "Number_of_Dormitory": "5",
+
+        "Number_of_Seat_in_Dormitory": "470",
+
+        "Seat Rent":{
+            "Seat rent for room": "115",
+            "Rent for dormitory": "65"
+        },
+
+        "Number_of_Library": "1",
+
+        "Number_of_Reading_Room": "1",
+
+
+        "Entertainment": "Sports, Indoor games, Cultural Events, Annual Functions, Debating, Discussion Ceremony",
+
+        "Kitchen": "1",
+
+        "Prayer_Room": "1",
+
+        "Hall_Dining": {
+            "Lunch_Meal":"24 tk",
+            "Dinner_Meal": "18 tk"
+        },
+
+        "Gate_Opens_At": "6 AM",
+
+        "Gate_Close At": "7 PM",
+
+        "Office Opens At": "9 AM",
+
+        "Office_Close_At": "4.30 PM"
+    },
+
+    {
+        "_id":"125",
+        
+        "Name": "Bangmata Seikh Fazilatunnesa Hall",
+        
+        "Establishment": "24th November,2011",
+
+        "Provost": "Professor Fahima Khatun",
+
+        "Tel_no": "711206",
+
+        "Number_of_House_Tutor": "3",
+
+        "Number_of_Rooms": "243",
+
+        "Number_of_seat": "458",
+
+        "Residential_Students": "458",
+
+        "Number_of_Dormitory": "1",
+
+        "Number_of_Seat_in_Dormitory": "133",
+
+        "Seat Rent":{
+            "Seat rent for room": "115",
+            "Rent for dormitory": "65"
+        },
+
+        "Number_of_Library": "0",
+
+        "Number_of_Reading_Room": "1",
+
+
+        "Entertainment": "Sports, Indoor games, Cultural Events, Annual Functions, Debating, Discussion Ceremony",
+
+        "Kitchen": "12",
+
+        "Prayer_Room": "1",
+
+        "Hall_Dining": {
+            "Lunch_Meal":"24 tk",
+            "Dinner_Meal": "18 tk"
+        },
+
+        "Gate_Opens_At": "6 AM",
+
+        "Gate_Close At": "7 PM",
+
+        "Office Opens At": "9 AM",
+
+        "Office_Close_At": "4.30 PM"
+    }
+]
