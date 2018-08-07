@@ -1,0 +1,206 @@
+Hall Name:Begum Khaleda Zia Hall
+
+Establishment Year:12th Nov, 1994
+
+Hall Code: 123
+
+Name of the Provost:Mahbuba Sarkar
+
+Provost Tel no:711203 
+
+Number of House Tutor:4
+
+Number of Rooms:113
+
+Number of seat:452
+
+Residential Students:676
+
+Non-Residential Students:788
+
+Number of Dormitory: 4
+
+Number of Seat in Dormitory:224
+
+Seat Rent:Seat rent for room -115
+          Rent for dormitory -65
+
+Requirements for having seat: Recent Mark sheet
+
+Quality for Having Seat: According to merit.
+
+Number of Library: 1
+
+Number of Reading Room:2
+
+Internet Facilities:Router
+
+Conference Room:No
+
+Guest Room:1
+
+TV Room:1
+
+Entertainment: Sports,Indoor games,Cultural Events,Annual Functions, Debating,Discussion Ceremony.
+
+Kitchen:1
+
+Prayer Room:1
+
+Newspaper:1(room) and 4(types)
+
+Gymnesium: One for all ladies hall
+
+Hall Dining: Lunch Meal -24 tk
+             Dinner Meal -18 tk
+
+Hall Canteen: Breakfast ,Snacks 
+
+Gate Opens At: 6 AM.
+
+Gate Close At: 7 PM
+
+Office Opens At:10 AM
+
+Office Close At:4.30 PM
+
+Security: Secured( security guards are available)
+
+
+
+Hall Name:  Rahamatunnesa Hall
+
+Establishment Year:29th June,2007
+
+Hall Code: 124
+
+Name of the Provost: Dr. Mele Jesmin
+
+Provost Tel no: 711205
+
+Number of House Tutor:3
+
+Number of Rooms:111
+
+Number of seat:400
+
+Residential Students:450
+
+Non-Residential Students:250
+
+Number of Dormitory:5
+
+Number of Seat in Dormitory:470
+Seat Rent:Seat rent for room -115
+          Rent for dormitory -65
+
+Requirements for having seat: Recent Mark sheet
+
+Quality for Having Seat: According to merit.
+
+Number of Library: 1
+
+Number of Reading Room: 1
+
+Internet Facilities:Router
+
+Conference Room: No
+
+Guest Room:1
+
+TV Room:1
+
+Entertainment: Sports,Indoor games,Cultural Events,Annual Functions, Debating,Discussion Ceremony.
+
+Kitchen:1
+
+Prayer Room:1
+
+Newspaper:1(room) and 4(types)
+
+Gymnesium: One for all ladies hall
+
+Hall Dining: Lunch Meal -24 tk
+             Dinner Meal -18 tk
+
+Hall Canteen: Breakfast ,Snacks 
+
+Gate Opens At: 6 AM.
+
+Gate Close At: 7 PM
+
+Office Opens At:10 AM
+
+Office Close At:4.30 PM
+
+Security: Secured( security guards are available)
+
+
+
+Hall Name: Bangmata Seikh Fazilatunnesa Hll
+
+Establishment Year: 24th November,2011.
+
+Hall Code: 125
+
+Name of the Provost:Professor Fahima Khatun 
+
+Provost Tel no: 711206
+
+Number of House Tutor: 3
+
+Number of Rooms:243
+
+Number of seat:458 for regular student, 24 for M.Phil,24 for Foreigner.
+
+Residential Students:506
+
+Non-Residential Students:  83
+
+Number of Dormitory: 1
+
+Number of Seat in Dormitory: 133
+
+Seat Rent:Seat rent for room -115
+          Rent for dormitory -65
+
+Requirements for having seat: Recent Mark sheet
+
+Quality for Having Seat: According to merit.
+
+Number of Library: 0
+
+Number of Reading Room: 1
+
+Internet Facilities: Routers are available in Blocks
+
+Conference Room: 1
+
+Guest Room: 0
+
+TV Room: 1
+
+Entertainment: Sports,Indoor games,Cultural Events,Annual Functions, Debating,Discussion Ceremony.
+
+Kitchen: 12
+
+Prayer Room: 1.
+
+Newspaper:5 types are available
+
+Gymnesium: Doesn't have any personal Gymnesium.
+
+Hall Dining: Lunch Meal -24 tk
+             Dinner Meal -18 tk
+
+Hall Canteen: Breakfast ,Snacks 
+
+Gate Opens At: 6 AM.
+
+Gate Close At: 7 PM
+
+Office Opens At:10 AM
+
+Office Close At:4.30 PM
+
+Security: Secured( security guards are availabl
