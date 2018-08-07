@@ -1,0 +1,135 @@
+1.Nawab Abdul Latif Hall
+-------------------------------
+Provost Name - Dr.Bipul Kumar Biswas
+Hall code    -103
+Telephone    -711
+House Tutor  -3
+Total Room No-125
+Total Seat No-250
+Library      -01
+Conference Room-01
+Tv Room       - 01
+Mosque        - 01
+Guest Room    -01
+Reading Room  -01
+
+2.Syed Amer Ali Hall
+-------------------------------
+Provost Name -Dr.M.Aminul Islam 
+Hall code   - 104
+Telephone   - 711194
+House Tutor -02
+Total Room No-170
+Total Seat No-300
+Library    - 01
+Conference Room-01
+Tv Room    -01
+Mosque     -01
+Guest Room -01
+Reading Room-02
+
+3.Shaheed Shamsuzzoha Hall
+-------------------------------
+Provost Name - Dr.M.Golam Siddique
+Hall code - 105
+Telephone- 711196
+House Tutor-03
+Total Room No-370
+Total Seat No-530
+Library-01
+Conference Room-01
+Tv Room-01
+Mosque-01
+Guest Room-01
+Reading Room-01
+
+4.Madar Bux Hall
+-------------------------------
+Provost Name - Dr.Md.Abdul Alim
+Hall code - 108
+Telephone-711198
+House Tutor-03
+Total Room No-450
+Total Seat No-680
+Library-01
+Conference Room-01
+Tv Room-01
+Mosque-01
+Guest Room-01
+Reading Room-01
+
+5.Shaheed Suhrawardy Hall
+-------------------------------
+Provost Name - Dr.Md.Anisur Rahman
+Hall code - 109
+Telephone-711197
+House Tutor-02
+Total Room No-420
+Total Seat No-680
+Library-01
+Conference Room-01
+Tv Room-01
+Mosque-01
+Guest Room-01
+Reading Room-01
+
+6.Shaheed Ziaur Rahman Hall
+-------------------------------
+Provost Name - Dr.Rejaul Karim Bakshi
+Hall code - 110
+Telephone-711199
+House Tutor-03
+Total Room No-300
+Total Seat No-600
+Library-01
+Conference Room-01
+Tv Room-01
+Mosque-01
+Guest Room-01
+Reading Room-02
+
+
+7.Shah Mukhdum Hall
+-------------------------------
+Provost Name - Dr.M.Jahangir Alam
+Hall code - 102
+Telephone- 711193
+House Tutor-02
+Total Room No-180
+Total Seat No-320
+Library-01
+Conference Room-01
+Tv Room-01
+Mosque-01
+Guest Room-01
+Reading Room-01
+
+8.Shaheed Habibur Rahman Hall
+-------------------------------
+Provost Name - Dr.Abdur Rahman
+Hall code - 106
+Telephone- 711200
+House Tutor-02
+Total Room No-310
+Total Seat No-540
+Library-01
+Conference Room-01
+Tv Room-01
+Mosque-01
+Guest Room-01
+Reading Room-01
+
+9.Bangabondhu Sheikh Muzibur Rahman Hall
+-------------------------------
+Provost Name - 	 Dr. Md. Ashraf Uz Zaman
+Hall code - 111
+Telephone- 711190
+House Tutor-02
+Total Room No-270
+Total Seat No-510
+Library-01
+Conference Room-01
+Tv Room-01
+Mosque-01
+Guest Room-02
+Reading Room-01
